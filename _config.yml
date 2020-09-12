@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Condensat technologies
 description: Be a bank
+logo: github-logo-condensat.png
+show_downloads: false
