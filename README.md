@@ -6,7 +6,8 @@
 ## What does Condensat do?
 
 Condensat technologies writes a core banking software allowing anybody to be a bank.
-[why](why)? [how](how)?
+* [why](why?)
+* [how](how?)
 
 ## A bank? how can anybody be a bank?
 
