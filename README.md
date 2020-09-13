@@ -19,7 +19,7 @@ When you install this software, you have a server where people can open accounts
 
 **BUT**, you can be your own bank, for you, your family or your company.
 Remember that it's an accounting and payments software and banks are just about that.
-You won't be able to connect to payment networks, without a banking licence to register to such networks.
+You won't be able to connect to payment networks without a banking licence to register to such networks.
 
 ## So, Condensat works with banks?
 
