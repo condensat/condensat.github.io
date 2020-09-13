@@ -20,3 +20,6 @@ With these concepts, Condensat writes code that contains:
 * Cryptoassets and cryptocurrencies, indeed.
 * Hardware security modules (HSM) compatibility.
 
+Of course, you will be able to browse the code soon engouh, when it will be opensrouced by 2020's end.
+We are happy with construcive criticism and will review requests made buy banks **and** bank users.
+
