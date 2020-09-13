@@ -1,5 +1,3 @@
-![Condensat Logo](github-logo-condensat.png)
-
 ## What is Condensat?
 
 Condensat technologies is a software company, funded in 2020, located in Neuchâtel, Switzerland.
