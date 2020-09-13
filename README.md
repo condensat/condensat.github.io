@@ -11,7 +11,7 @@ Condensat technologies write a core banking software allowing anybody to be a ba
 ## A bank? how can anybody be a bank?
 
 Condensat software is an accounting and payments software based on [Bitcoin](github.com/bitcoin), [Liquid](liquid.net) and [Lightning network](lightning.network) technologies and pluggable to traditional payment networks.
-When you install this software, you have a server where people can open accounts, deposit and withdraw their Bitcoins and liquid tokens.Fiat currencies are supported.
+When you install this software, you have a server where people can open accounts, deposit and withdraw their Bitcoins and liquid tokens. Fiat currencies are supported.
 
 ## That's all? i run the software and i'm a bank?
 
