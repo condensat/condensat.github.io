@@ -1,4 +1,4 @@
-## How Condensat write a banking software?
+## How Condensat writes a banking software?
 
 Condensat leverages on these concepts to write its code:
 * Transparency
