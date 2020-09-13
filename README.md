@@ -1,7 +1,7 @@
 ## What is Condensat?
 
 [Condensat technologies](https://hrc.ne.ch/hrcintapp/companyReport.action?rcentId=3372420500000064531025) is a software company, funded in 2020 in Neuchâtel, Switzerland.
-[Julien Guitton](mailto:julien@condensat.tech) is its CEO.
+[Julien Guitton](linkedin.com/in/julien-guitton-a07ab617) is its CEO.
 
 ## What does Condensat do?
 
