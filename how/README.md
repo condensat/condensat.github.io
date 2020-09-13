@@ -1,6 +1,6 @@
 ## How Condensat write a banking software?
 
-Condensat leverage on these concepts to write its code:
+Condensat leverages on these concepts to write its code:
 * Transparency
   * Reviewable open-source software, publicly auditable, developer friendly.
 * Modern technologies
