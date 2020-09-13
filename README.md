@@ -1,7 +1,7 @@
 ## What is Condensat?
 
 [Condensat technologies](https://hrc.ne.ch/hrcintapp/companyReport.action?rcentId=3372420500000064531025) is a software company, funded in 2020 in Neuchâtel, Switzerland.
-[Julien Guitton](linkedin.com/in/julien-guitton-a07ab617) is its CEO.
+[Julien Guitton](https://linkedin.com/in/julien-guitton-a07ab617) is its CEO.
 
 ## What does Condensat do?
 
@@ -10,7 +10,7 @@ Condensat technologies write a core banking software allowing anybody to be a ba
 
 ## A bank? how can anybody be a bank?
 
-Condensat software is an accounting and payments software based on [Bitcoin](github.com/bitcoin), [Liquid](liquid.net) and [Lightning network](lightning.network) technologies and pluggable to traditional payment networks.
+Condensat software is an accounting and payments software based on [Bitcoin](https://github.com/bitcoin), [Liquid](https://liquid.net) and [Lightning network](https://lightning.network) technologies and pluggable to traditional payment networks.
 When you install this software, you have a server where people can open accounts, deposit and withdraw their Bitcoins and liquid tokens. Fiat currencies are supported.
 
 ## That's all? i run the software and i'm a bank?
