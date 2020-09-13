@@ -26,7 +26,7 @@ You won't be able to connect to payment networks, without a banking licence to r
 We guide banks and any custodian financial institutions through the maze of building the right compliance to work with cryptocurrencies and cryptoassets.
 We give banks tools to make
 * Easy, cheap and reliable auditings and verifications on their accounting with cryptography
-* A bridge blockchain technologies with old payment and settlement systems
+* A bridge betwenn blockchain technologies and old payment and settlement systems
 * Regulation compliance and modern governance models with
   * Key generation ceremonies
   * Physical key custody
