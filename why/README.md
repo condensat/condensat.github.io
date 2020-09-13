@@ -17,3 +17,6 @@ Bank users want:
 * Revenue declaration and tax payments automated
 * Bills and all other economic life documents in digital format
 * Participate easily in local economies
+
+Moreover, more specialized banks are opening, gaining market shares from traditional monolithic all-purpose banks.
+Condensat services are affordable for startups and can place this new generation of banks on the market faster and with reduced costs.
