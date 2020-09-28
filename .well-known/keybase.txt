@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/weedcoder
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://condensat.tech
+  * I am weedcoder (https://keybase.io/weedcoder) on keybase.
+  * I have a public key ASA4Ma-3_KVY-MVCAFCaOisVLQ2Pn9KpMtT5QR6041_H3Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205bd9f64f330a53b067c5384dfba192e8763381656cabc06b0d06ba2a6a16b2ef0a",
+      "host": "keybase.io",
+      "kid": "01203831afb7fca558f8c54200509a3a2b152d0d8f9fd2a932d4f9411eb4e35fc7dd0a",
+      "uid": "0297fbafe60d572a1c82ef3749a40419",
+      "username": "weedcoder"
+    },
+    "merkle_root": {
+      "ctime": 1506096908,
+      "hash": "ca2e387015aeb8b6a5c22971989256680e52d129c041ae746ed0caeaddac3ceb1821021e53b463201f100f3120f3ce900d8904fbe5f76e86844ebd2ad25d688d",
+      "hash_meta": "e8080d88cb22e92945b8b839f825d47aa3ebe259e509bff41c8aebad69a8a6c5",
+      "seqno": 1444325
+    },
+    "service": {
+      "hostname": "condensat.tech",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.31"
+  },
+  "ctime": 1506096964,
+  "expire_in": 504576000,
+  "prev": "d602cb60f661831b85975ca37a6c95f162c8bfa913f2ebf30f1d0a9de22f14a8",
+  "seqno": 58,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgODGvt/ylWPjFQgBQmjorFS0Nj5/SqTLU+UEetONfx90Kp3BheWxvYWTFA0d7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNWJkOWY2NGYzMzBhNTNiMDY3YzUzODRkZmJhMTkyZTg3NjMzODE2NTZjYWJjMDZiMGQwNmJhMmE2YTE2YjJlZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMzgzMWFmYjdmY2E1NThmOGM1NDIwMDUwOWEzYTJiMTUyZDBkOGY5ZmQyYTkzMmQ0Zjk0MTFlYjRlMzVmYzdkZDBhIiwidWlkIjoiMDI5N2ZiYWZlNjBkNTcyYTFjODJlZjM3NDlhNDA0MTkiLCJ1c2VybmFtZSI6IndlZWRjb2RlciJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwNjA5NjkwOCwiaGFzaCI6ImNhMmUzODcwMTVhZWI4YjZhNWMyMjk3MTk4OTI1NjY4MGU1MmQxMjljMDQxYWU3NDZlZDBjYWVhZGRhYzNjZWIxODIxMDIxZTUzYjQ2MzIwMWYxMDBmMzEyMGYzY2U5MDBkODkwNGZiZTVmNzZlODY4NDRlYmQyYWQyNWQ2ODhkIiwiaGFzaF9tZXRhIjoiZTgwODBkODhjYjIyZTkyOTQ1YjhiODM5ZjgyNWQ0N2FhM2ViZTI1OWU1MDliZmY0MWM4YWViYWQ2OWE4YTZjNSIsInNlcW5vIjoxNDQ0MzI1fSwic2VydmljZSI6eyJob3N0bmFtZSI6ImNvbmRlbnNhdC50ZWNoIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zMSJ9LCJjdGltZSI6MTUwNjA5Njk2NCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJkNjAyY2I2MGY2NjE4MzFiODU5NzVjYTM3YTZjOTVmMTYyYzhiZmE5MTNmMmViZjMwZjFkMGE5ZGUyMmYxNGE4Iiwic2Vxbm8iOjU4LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQFD/6EMV8phXghtmllo7KJY9aQbDxjfzeFgmsTOvaHijiusRCmma5bQrWu8AbpxYW7BV0U8m412g994tMxEvKQuoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDuA2iwSTl28qdR+STf3ezbf8+V4LstJXwVFX2rLlk926N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/weedcoder
+
+==================================================================
