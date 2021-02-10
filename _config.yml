@@ -12,7 +12,7 @@ markdown: kramdown
 extensions: [fenced_code_blocks]
 excerpt_separator: "<!--more-->"
 url: https://condensat.tech
-baseurl: "/condensat.github.io"
+baseurl: ""
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
@@ -22,16 +22,16 @@ baseurl: "/condensat.github.io"
 #data-ad-client: ca-pub-9204963049240271
 #google_ad_client: ca-pub-9204963049240271
 
-post_limit: 5
+post_limit: 4
 
 
 title : Condensat technologies
 tagline: Rampup, be a smart bank
 author : 
   name : Julien Guitton
-  site: https://condensat.github.io
+  site: https://www.condensat.tech
   description : CEO Condensat technologies.
-  image : julien.png
+  image : team/julien.jpg
   email : contact@condensat.tech
   github : condensat
   twitter : condensat_bank
@@ -125,7 +125,7 @@ JB :
   analytics :
     provider : google
     google :
-        tracking_id : 'UA-94080000-1'
+        tracking_id : 'UA-999999999-1'
     getclicky :
       site_id :
     mixpanel :
