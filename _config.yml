@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name: Rampup
 remote_theme: condensat/heliumjk.github.io
 description: Rampup, be a smart bank.
@@ -153,3 +154,10 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
 
+=======
+remote_theme: condensat/minimal
+title: Condensat technologies
+description: Be your own bank
+logo: condensat-logo-final.png
+show_downloads: false
+>>>>>>> master
