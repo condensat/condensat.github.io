@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>Condensat technologies</title>
+        <description>Condensat technologies - Julien Guitton</description>
+        <link>https://www.condensat.tech</link>
+        <link>https://www.condensat.tech</link>
+        <lastBuildDate>2021-02-10T18:48:56+01:00</lastBuildDate>
+        <pubDate>2021-02-10T18:48:56+01:00</pubDate>
+        <ttl>1800</ttl>
+
+
+        <item>
+                <title>What Is Condensat</title>
+                <description>
+&lt;p class=&quot;lead&quot;&gt;Dive into Condensat technologies
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-condensat&quot;&gt;What is Condensat?&lt;/h2&gt;
+
+&lt;p class=&quot;lead&quot;&gt;&lt;a href=&quot;https://hrc.ne.ch/hrcintapp/companyReport.action?rcentId=3372420500000064531025&quot;&gt;Condensat technologies&lt;/a&gt; is a software company, founded in 2020 in Neuchâtel, Switzerland.
+&lt;a href=&quot;https://linkedin.com/in/julien-guitton-a07ab617&quot;&gt;Julien Guitton&lt;/a&gt; is its CEO.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-does-condensat-do&quot;&gt;What does Condensat do?&lt;/h2&gt;
+
+&lt;p class=&quot;lead&quot;&gt;Condensat technologies writes a core banking software allowing anybody to be a bank.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-condensat-writes-a-banking-software&quot;&gt;Why Condensat writes a banking software?&lt;/h2&gt;
+
+&lt;p class=&quot;lead&quot;&gt;Condensat creates a new core banking sofwate because traditional banking softwares suffer from:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;→ Complexity and stiffness&lt;/li&gt;
+  &lt;li&gt;→ Obsolescence and technological debt&lt;/li&gt;
+  &lt;li&gt;→ Unefficient competition&lt;/li&gt;
+  &lt;li&gt;→ Unreviewable closed source&lt;/li&gt;
+  &lt;li&gt;→ In an open society in the electronic age, there are new requirements for banks.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class=&quot;lead&quot;&gt;Bank users want:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;→ Bank services to be available anytime everywhere in the world.&lt;/li&gt;
+  &lt;li&gt;→ Access to all their bank accounting data in standard formats&lt;/li&gt;
+  &lt;li&gt;→ Build their indicators to follow their economic activities clearly&lt;/li&gt;
+  &lt;li&gt;→ Automate some parts of their economic life&lt;/li&gt;
+  &lt;li&gt;→ Accounting services included&lt;/li&gt;
+  &lt;li&gt;→ Revenue declaration and tax payments automated&lt;/li&gt;
+  &lt;li&gt;→ Bills and all other economic life documents in digital format&lt;/li&gt;
+  &lt;li&gt;→ Participate easily in local economies&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class=&quot;lead&quot;&gt;Moreover, more specialized banks are opening, gaining market shares from traditional monolithic all-purpose banks.
+Condensat services are affordable for startups and can place this new generation of banks on the market faster and with reduced costs.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-condensat-writes-a-banking-software&quot;&gt;How Condensat writes a banking software?&lt;/h2&gt;
+
+&lt;p class=&quot;lead&quot;&gt;Condensat leverages on these concepts to write its code:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;→ Transparency: Reviewable open-source software, publicly auditable, developer friendly.&lt;/li&gt;
+  &lt;li&gt;→ Modern technologies: Bitcoin, cryptography, mathematical formal proofs, proof of reserve, audit automations. Hardware wallet, HSM and vaults.&lt;/li&gt;
+  &lt;li&gt;→ Popular &amp;amp; simple: Low cost, interoperable, less intermediation, more user experience.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class=&quot;lead&quot;&gt;With these concepts, Condensat writes code that contains:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;→ UX/UI-centric administration of customer accounts.&lt;/li&gt;
+  &lt;li&gt;→ Peer reviewed open-source software.&lt;/li&gt;
+  &lt;li&gt;→ Auditable blockchain accounting.&lt;/li&gt;
+  &lt;li&gt;→ KYC/KYB/AML/CTF compliance.&lt;/li&gt;
+  &lt;li&gt;→ SEPA, SWIFT and TARGET2 protocols.&lt;/li&gt;
+  &lt;li&gt;→ API-centric, DSP2 compliance and interoperability.&lt;/li&gt;
+  &lt;li&gt;→ Credit and debit cards services registering.&lt;/li&gt;
+  &lt;li&gt;→ Cryptoassets and cryptocurrencies, indeed.&lt;/li&gt;
+  &lt;li&gt;→ Hardware security modules (HSM) compatibility.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class=&quot;lead&quot;&gt;Of course, you will be able to browse the code soon engouh, when it will be opensrouced by 2020’s end.
+We are happy with construcive criticism and will review requests made buy banks &lt;em&gt;*and&lt;/em&gt;bank users.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-bank-how-can-anybody-be-a-bank&quot;&gt;A bank? How can anybody be a bank?&lt;/h2&gt;
+
+&lt;p class=&quot;lead&quot;&gt;Condensat software is an accounting and payments software based on &lt;a href=&quot;https://github.com/bitcoin&quot;&gt;Bitcoin&lt;/a&gt;, &lt;a href=&quot;https://liquid.net&quot;&gt;Liquid&lt;/a&gt; and &lt;a href=&quot;https://lightning.network&quot;&gt;Lightning network&lt;/a&gt; technologies and pluggable to traditional payment networks. When you install this software, you have a server where people can open accounts, deposit and withdraw their Bitcoins and Liquid tokens. Fiat currencies are also supported.&lt;/p&gt;
+
+&lt;h2 id=&quot;thats-all-i-run-the-software-and-im-a-bank&quot;&gt;That’s all? I run the software and I’m a bank?&lt;/h2&gt;
+
+&lt;p class=&quot;lead&quot;&gt;&lt;strong&gt;NO&lt;/strong&gt;, in our regulated world, in order to be a bank, you need a banking licence.&lt;/p&gt;
+
+&lt;p class=&quot;lead&quot;&gt;&lt;strong&gt;BUT&lt;/strong&gt;, you can be your own bank, for you, your family or your company.
+Remember that it’s an accounting and payments software and banks are just about that.
+You won’t be able to connect to payment networks without a banking licence required for registration in such networks.&lt;/p&gt;
+
+&lt;h2 id=&quot;so-condensat-works-with-banks&quot;&gt;So, Condensat works with banks?&lt;/h2&gt;
+
+&lt;p class=&quot;lead&quot;&gt;We guide banks and any custodian financial institutions through the maze of building the right compliance to work with cryptocurrencies and cryptoassets.&lt;/p&gt;
+
+&lt;p class=&quot;lead&quot;&gt;We give banks tools to make:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;→ Easy, cheap and reliable audits and verifications of their accounting using cryptography&lt;/li&gt;
+  &lt;li&gt;→ A bridge between blockchain technologies and old payment and settlement systems&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class=&quot;lead&quot;&gt;Regulation compliance and modern governance models with:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;→ Key generation ceremonies&lt;/li&gt;
+  &lt;li&gt;→ Physical key custody&lt;/li&gt;
+  &lt;li&gt;→ Role assignment, expiration and renewal&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class=&quot;lead&quot;&gt;We want traditional banks to be able to use cryptocurrencies and cryptoassets. We want neobanks and cryptobanks to access traditional payment networks. The important thing is: &lt;strong&gt;We want to reduce banking costs&lt;/strong&gt;&lt;/p&gt;
+
+</description>
+                <link>https://www.condensat.tech/docs/2021/02/10/what-is-condensat</link>
+                <guid>https://www.condensat.tech/docs/2021/02/10/what-is-condensat</guid>
+                <pubDate>2021-02-10T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>What Is Rampup</title>
+                <description>
+&lt;p class=&quot;lead&quot;&gt;Discover Rampup.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;what-is-rampup&quot;&gt;What is Rampup?&lt;/h1&gt;
+
+&lt;p class=&quot;lead&quot;&gt;Rampup is the solution to open the door to the internet of finance and digital gold.
+In addition to a complete banking software solution from datacenter to mobile app, Rampup guides the learning curve of yours teams on the suitable compliance to crypotassets and cryptocurrencies operations.&lt;/p&gt;
+
+&lt;h1 id=&quot;banks-perks&quot;&gt;Banks perks:&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;→ mastering crypto technologies&lt;/li&gt;
+  &lt;li&gt;→ be ready for cryptoassets&lt;/li&gt;
+  &lt;li&gt;→ be ready for CBDCs&lt;/li&gt;
+  &lt;li&gt;→ legally compliant cryptoassets&lt;/li&gt;
+  &lt;li&gt;→ new governance models&lt;/li&gt;
+  &lt;li&gt;→ continuous auditability et verifiability&lt;/li&gt;
+  &lt;li&gt;→ cost reducing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;banks-customers-perks&quot;&gt;Banks’ customers perks:&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;→ easy acces to the internet of finance&lt;/li&gt;
+  &lt;li&gt;→ cheaper payment methods&lt;/li&gt;
+  &lt;li&gt;→ standards for personnal finance data&lt;/li&gt;
+  &lt;li&gt;→ custodial or non-custodial models&lt;/li&gt;
+  &lt;li&gt;→ better security&lt;/li&gt;
+  &lt;li&gt;→ privacy preservation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;why-rampup&quot;&gt;Why Rampup?&lt;/h1&gt;
+
+&lt;p class=&quot;lead&quot;&gt;Rampup si a very competitive solution crafted with the 21st centry bank industry needs in mind, to address usage changes with internet communications and use fraud mitigations breakthrough cryptography technologies brings. Sandboxes and source code access allow banks to innovate with the help of our expertise and reputation.&lt;/p&gt;
+</description>
+                <link>https://www.condensat.tech/docs/2021/02/08/what-is-rampup</link>
+                <guid>https://www.condensat.tech/docs/2021/02/08/what-is-rampup</guid>
+                <pubDate>2021-02-08T00:00:00+01:00</pubDate>
+        </item>
+
+
+</channel>
+</rss>

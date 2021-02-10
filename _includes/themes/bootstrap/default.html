@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<!--
+https://www.linkedin.com/in/antoniotrento/
+https://twitter.com/lantoniotrento
+lantoniotrento@gmail.com
+-->
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{{ page.title }}</title>
+    {% if page.tagline %}<meta name="description" content="{{ page.tagline }}">{% endif %}
+    <meta name="author" content="{{ site.author.name }}">    
+    {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
+    {% if page.canonical %}<link rel="canonical" href="{{ page.canonical }}"/>{% endif %}
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+
+    <!--Google Font link-->
+        <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,500,500i,700,700i" rel="stylesheet">
+ <!--Helium css-->
+        <link rel="stylesheet" href="{{ BASE_PATH }}/assets/css/animate.css">
+        <link rel="stylesheet" href="{{ BASE_PATH }}/assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="{{ BASE_PATH }}/assets/css/font-awesome.min.css">
+        <link rel="stylesheet" href="{{ BASE_PATH }}/assets/css/jasny-bootstrap.min.css">
+        <link rel="stylesheet" href="{{ BASE_PATH }}/assets/css/main.css">
+        <link rel="stylesheet" href="{{ BASE_PATH }}/assets/css/owl.carousel.css">
+        <link rel="stylesheet" href="{{ BASE_PATH }}/assets/css/owl.theme.css">
+        <link rel="stylesheet" href="{{ BASE_PATH }}/assets/css/responsive.css">
+        <link rel="stylesheet" href="{{ BASE_PATH }}/assets/css/scrolling-nav.css">	  
+
+<!--mailchimp-->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+
+
+	<!-- CSS loaded by the children page -->
+        {% if page.css %}<link rel="stylesheet" type="text/css" href="{{ BASE_PATH }}/assets/css/custom/{{ page.css }}" />{% endif %}
+
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:description" content="{{ page.tagline }}">
+    <meta property="og:image" content="{{ BASE_PATH }}/assets/img/big/{{ page.img }}">
+    <meta property="og:url" content="{{ BASE_PATH }}">
+    <meta name="twitter:card" content="summary_large_image">
+
+
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ff0000">
+
+	<!--[if IE]>
+		<script type="text/javascript">
+			 var console = { log: function() {} };
+		</script>
+	<![endif]-->
+    <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
+    <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+    <!-- Google ADS mobile block-->
+    {% if site.google_ad_client %}
+    <script type="text/javascript" async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script type="text/javascript">
+     (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "{{ site.google_ad_client }}",
+        enable_page_level_ads: true
+        });
+    </script>
+    {% endif %}
+  </head>
+  <body>
+  <div class="wrapper">	  	  
+      <!--Home page style--> 
+      {% include themes/bootstrap/nav-bar.html %}  
+      {{ content }}
+	  <br />
+      {% include themes/bootstrap/footer.html %}
+  </div>
+  {% include JB/analytics %}
+  {% if site.JB.comments.disqus.short_name == true %}
+  <script id="dsq-count-scr" src="//{{ site.JB.comments.disqus.short_name }}.disqus.com/count.js" async></script>
+  {% endif %}
+
+
+
+
+        <!-- JS includes -->
+
+        <script src="{{ BASE_PATH }}/assets/js/jquery.min.js"></script>
+        <script src="{{ BASE_PATH }}/assets/js/jquery.nav.js"></script>
+	<script src="{{ BASE_PATH }}/assets/js/owl.carousel.min.js"></script>
+        <script src="{{ BASE_PATH }}/assets/js/form-validator.min.js"></script>	  
+        <script src="{{ BASE_PATH }}/assets/js/contact-form-script.js"></script>
+        <script src="{{ BASE_PATH }}/assets/js/jasny-bootstrap.min.js"></script>
+        <script src="{{ BASE_PATH }}/assets/js/jquery.mixitup.js"></script>	  
+        <script src="{{ BASE_PATH }}/assets/js/jquery.countTo.js"></script>
+        <script src="{{ BASE_PATH }}/assets/js/jquery.easing.min.js"></script>
+        <script src="{{ BASE_PATH }}/assets/js/main.js"></script>	
+        <script src="{{ BASE_PATH }}/assets/js/scrolling-nav.js"></script>
+        <script src="{{ BASE_PATH }}/assets/js/tether.min.js"></script>
+        <script src="{{ BASE_PATH }}/assets/js/bootstrap.min.js"></script>
+        
+        <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+
+	<!-- ********************* Grads SCRIPTING ******************************-->
+	<!--Custom script loaded by children page-->
+	{% if page.js %}<script src="{{ BASE_PATH }}/assets/js/{{ page.js }}"></script>{% endif %}
+
+
+	  
+  </body>
+</html>
